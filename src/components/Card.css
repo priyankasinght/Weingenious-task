@@ -1,0 +1,17 @@
+
+
+.rec-container {
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.rec-container img {
+    width: 100px;
+    height: auto;
+    border-radius: 5px;
+}
+
+.rec-container button {
+    padding: 5px 10px;
+    border: none;
+}
